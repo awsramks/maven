@@ -1,3 +1,3 @@
 <h1> Hello Ram, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a Docker application using ansible </h2>
-<h2> Glad to see you here @ 08:39 PM </h2>
+<h2> Deploying on a Docker application server using ansible </h2>
+<h2> Glad to see you here @ 08:46 PM </h2>
